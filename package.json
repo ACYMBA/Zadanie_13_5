@@ -1,0 +1,22 @@
+{
+  "name": "nakua_npm",
+  "version": "1.0.0",
+  "description": "Tedtowy plik package.json do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "nauka"
+  ],
+  "author": "ALbert",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
